@@ -10,7 +10,7 @@ I am 21 years old and I like video games and music, currently I am focused on co
 Thanks to this I was able to meet the Soy Henry bootcamp in which I acquired knowledge to develop a web application, in addition to providing me with soft skills.
 
 Do not hesitate to contact me!😁
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chrismai1020162016@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chrisvmai231@gmail.com)
 
 ## Connect with me:
 
